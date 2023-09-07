@@ -9,4 +9,4 @@ def solution(num):
 
     print(answer)
 
-solution(3)
+solution(4)
