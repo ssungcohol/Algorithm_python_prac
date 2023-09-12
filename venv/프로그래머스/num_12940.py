@@ -25,3 +25,6 @@ def solution(n, m):
     print(answer)
 
 solution(3, 12)
+
+
+print(chr(100))
