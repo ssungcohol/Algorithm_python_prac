@@ -4,7 +4,7 @@ def solution(s):
     answer = []
     s_dict = dict()
 
-    for i in range(1, len(s)):
+    for i in range(len(s)):
         if s[i] not in s_dict:
             answer.append(-1)
         else:
